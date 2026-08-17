@@ -1,0 +1,10 @@
+Lab 17 long-term evidence from reports/benchmark.json
+Summary: PASS 11/11.
+E02 PASS: Python present = True.
+Excerpt: <USER_SUMMARY> Minh Nguyen's personal project is ORCHID-27, for which they prefer Python. For the company project BLUEBIRD-42, the backend must use TypeScript with NestJS, not Python. Minh prefers Python for personal demos (ORCHID-27) and dislikes Java. For coding explanations, Minh prefers short examples. Minh's efficient approach to resolving connection churn involves reusing the aiohttp ClientSession and setting c
+E03 PASS: benchmark report present = True; 16:00 present = True.
+Excerpt: iohttp ClientSession and setting concurrency to 20, as increasing the timeout was ineffective. Minh needs to complete a benchmark report by Friday at 16:00. When explaining async/await and coroutines versus Tasks, use a timeline. The AI will prioritize timelines when explaining coroutines and Tasks. </USER_SUMMARY> <EPISODES> Episodes are source message or document excerpts shown in selection order. - Created At: 202
+E08 PASS: BLUEBIRD-42/TypeScript/NestJS present = True.
+Excerpt: <USER_SUMMARY> Minh Nguyen's personal project is ORCHID-27, for which they prefer Python. For the company project BLUEBIRD-42, the backend must use TypeScript with NestJS, not Python. Minh prefers Python for personal demos (ORCHID-27) and dislikes Java. For coding explanations, Minh prefers short examples. Minh's efficient approach to resolving connection churn involves reusing the aiohttp ClientSession and setting c
+E09 PASS: LOTUS-88/Java/Spring Boot present = True; ORCHID-27 forbidden absent = True.
+Excerpt: <USER_SUMMARY> Lan's project is LOTUS-88. Lan prioritizes Java and Spring Boot for backend examples and does not use Python for the backend. </USER_SUMMARY> <EPISODES> Episodes are source message or document excerpts shown in selection order. - Created At: 2026-08-01 11:00:20 Source: message Content: Lab Assistant (assistant): Da hieu: LOTUS-88, Java + Spring Boot cho backend examples. - Created At: 2026-08-01 11:00:
